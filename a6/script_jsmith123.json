@@ -1,0 +1,119 @@
+{
+	"1": {
+        "characters": {
+            "antagonist": "RIGHT"
+        },
+		"dialogue": {
+          "spokenBy": "IAmVillain",
+		  "says": "I will destroy the Earth!"
+        }
+	},
+	"2":  {
+        "characters": {
+            "protagonist": "LEFT"
+        },
+		"dialogue": {
+          "spokenBy": "Patrick Star",
+		  "says": "What?!"
+        }
+    },
+	"3":  {
+        "characters": {
+            "protagonist": "LEFT"
+        },
+		"dialogue": {
+          "spokenBy": "Patrick Star",
+		  "says": "What?!"
+        }
+    },  
+	"4":  
+      {
+        "fight": {
+          "characters": {
+              "protagonist": "CENTER"
+          },
+          "dialogue": {
+            "spokenBy": "Patrick Star",
+            "says": "I won't let this happen!"
+          }
+        },
+        "run" : {
+          "characters": {
+              "protagonist": "LEFT"
+          },
+          "dialogue": {
+            "spokenBy": "protagonist",
+            "says": "I am sorry!"
+          }          
+        },
+        "getHelp": {
+          "characters": {
+              "friend": "CENTER"
+          },
+          "dialogue": {
+            "spokenBy": "yodaz",
+            "says": "I am here, Patrick!"
+          }
+        }
+    }, 
+	"5":
+      {
+        "fight": {
+          "characters": {
+              "antagonist": "RIGHT"
+          },
+          "dialogue": {
+            "spokenBy": "IAmVillain",
+            "says": "Okay, bring it on!"
+          }
+        },
+        "run" : {
+          "characters": {
+              "antagonist": "CENTER"
+          },
+          "dialogue": {
+            "spokenBy": "IAmVillain",
+            "says": "Haha! That's right, run!"
+          }          
+        },
+        "getHelp": {
+          "characters": {
+              "antagonist": "RIGHT"
+          },
+          "dialogue": {
+            "spokenBy": "IAmVillain",
+            "says": "Darn it!!"
+          }
+        }
+    },
+	"6":
+      {
+        "fight": {
+          "characters": {
+              "antagonist": "RIGHT"
+          },
+          "dialogue": {
+            "spokenBy": "",
+            "says": ""
+          }
+        },
+        "run" : {
+          "characters": {
+              "antagonist": ""
+          },
+          "dialogue": {
+            "spokenBy": "",
+            "says": ""
+          }          
+        },
+        "getHelp": {
+          "characters": {
+              "antagonist": "RIGHT"
+          },
+          "dialogue": {
+            "spokenBy": "",
+            "says": ""
+          }
+        }
+    }    
+}
